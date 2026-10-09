@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Rayenne Abid — Cloud, DevOps and Applied AI</title>
+<desc id="desc">Professional portfolio banner with a dark navy background, teal accents and connected infrastructure nodes.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#172c43"/></linearGradient><linearGradient id="accent"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#60a5fa"/></linearGradient></defs>
+<rect width="1200" height="260" rx="18" fill="url(#bg)"/>
+<path d="M875 65h140v65h100M875 195h140v-65M1015 130h-95" fill="none" stroke="#36546f" stroke-width="2"/>
+<g fill="#132a3e" stroke="#5eead4" stroke-width="2"><rect x="843" y="41" width="64" height="48" rx="10"/><rect x="843" y="171" width="64" height="48" rx="10"/><rect x="983" y="106" width="64" height="48" rx="10"/></g>
+<g fill="#5eead4"><circle cx="864" cy="65" r="4"/><circle cx="864" cy="195" r="4"/><circle cx="1004" cy="130" r="4"/></g>
+<g stroke="#91afc7" stroke-width="3" stroke-linecap="round"><path d="M877 65h15M877 195h15M1017 130h15"/></g>
+<rect x="52" y="50" width="48" height="4" rx="2" fill="url(#accent)"/>
+<text x="52" y="115" fill="#f8fafc" font-family="Arial,Helvetica,sans-serif" font-size="46" font-weight="700">Rayenne Abid</text>
+<text x="54" y="159" fill="#5eead4" font-family="Arial,Helvetica,sans-serif" font-size="24">Cloud · DevOps · Applied AI</text>
+<text x="54" y="205" fill="#b4c6d8" font-family="Arial,Helvetica,sans-serif" font-size="17">Infrastructure. Automation. Reliable delivery.</text>
+</svg>
